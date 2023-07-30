@@ -1,2 +1,2 @@
 # Frontend_Mentor
-Post a new activities project 
+Post a new project 
